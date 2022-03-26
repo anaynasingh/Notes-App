@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698283733675",
+    "project_id": "anaynasnotesapp",
+    "storage_bucket": "anaynasnotesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698283733675:android:1bbaeaa82ecb914f663dee",
+        "android_client_info": {
+          "package_name": "com.example.anaynasnotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698283733675-a90e4v4o00iious5qs9ennvubocvnim2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPO5UCUL3eY5ecLSa8rP0Nnb5RfnqpL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698283733675-a90e4v4o00iious5qs9ennvubocvnim2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
